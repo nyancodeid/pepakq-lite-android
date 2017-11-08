@@ -1,0 +1,74 @@
+#welcome {
+    padding: 20px 10px;
+    color: rgb(255,255,255);
+    background-color: #3b4cac;}
+    #welcome h2 {
+        font-size: 21px;
+        margin-bottom: 5px;}
+        
+#bab {
+    padding: 15px 10px;
+    border-left:3px solid #3F51B5;
+    color: #3b4cac; }
+    
+.cr1, .cr2 {
+    padding: 10px;
+    border-radius: 100%;}
+
+.ny-searchbox {
+    outline: none;
+    border: none;
+    background: transparent;
+    border-bottom: 2px solid #eee;
+    color: #fff;
+    font-size: 15px;
+}
+
+.ny-label {
+    font-size: 12px;
+}
+.ny-label-text {
+    font-size: 20px;
+    position: relative;
+    top: -10px;
+}
+
+.nav-header {
+     background: url('../img/dribbble_mountains.png');
+     background-size: cover;
+}
+
+.pp-fab {
+    position: fixed;
+    z-index: 100;
+    bottom: 16px;
+    right: 16px;
+}
+
+.search {
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,.25);
+    padding: 5px;
+}
+.search input {
+    outline: none;
+    border: none;
+    padding-left: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 14px;
+}
+
+.main-content {
+    color: #ffffff;
+}
+
+.saroja-content {
+    line-height: 30px;
+}
+
+.ny-footer {
+    color: #767676;
+    margin: 8px;
+    font-size: 14px;
+}

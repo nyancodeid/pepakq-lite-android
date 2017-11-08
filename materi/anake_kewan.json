@@ -1,0 +1,382 @@
+[
+    {
+        "anak": "ampal",
+        "jenenge": "embung"
+    },
+    {
+        "anak": "angrang",
+        "jenenge": "kroto"
+    },
+    {
+        "anak": "asu",
+        "jenenge": "kirik"
+    },
+    {
+        "anak": "ayam (pitik)",
+        "jenenge": "kuthuk"
+    },
+    {
+        "anak": "ayam (pitik) alas",
+        "jenenge": "bekisar"
+    },
+    {
+        "anak": "babi",
+        "jenenge": "gembluk"
+    },
+    {
+        "anak": "bandeng",
+        "jenenge": "nener"
+    },
+    {
+        "anak": "bantheng",
+        "jenenge": "wareng"
+    },
+    {
+        "anak": "banyak",
+        "jenenge": "blengur"
+    },
+    {
+        "anak": "baya",
+        "jenenge": "rete"
+    },
+    {
+        "anak": "bebek",
+        "jenenge": "meri"
+    },
+    {
+        "anak": "bethik",
+        "jenenge": "menter"
+    },
+    {
+        "anak": "blanak",
+        "jenenge": "sandha"
+    },
+    {
+        "anak": "brati",
+        "jenenge": "tongki"
+    },
+    {
+        "anak": "budheng",
+        "jenenge": "kowe"
+    },
+    {
+        "anak": "bulus",
+        "jenenge": "ketul"
+    },
+    {
+        "anak": "cacing",
+        "jenenge": "lur"
+    },
+    {
+        "anak": "cecak",
+        "jenenge": "sawijah"
+    },
+    {
+        "anak": "celeng",
+        "jenenge": "genjik"
+    },
+    {
+        "anak": "coro",
+        "jenenge": "mendhet"
+    },
+    {
+        "anak": "dara",
+        "jenenge": "piyik"
+    },
+    {
+        "anak": "dhorang",
+        "jenenge": "tamper"
+    },
+    {
+        "anak": "emprit",
+        "jenenge": "indhil"
+    },
+    {
+        "anak": "gagak",
+        "jenenge": "engkak"
+    },
+    {
+        "anak": "gajah",
+        "jenenge": "bledug"
+    },
+    {
+        "anak": "gangsir",
+        "jenenge": "clondho"
+    },
+    {
+        "anak": "garangan",
+        "jenenge": "rase"
+    },
+    {
+        "anak": "gerangpung",
+        "jenenge": "drungkuk"
+    },
+    {
+        "anak": "gemak",
+        "jenenge": "drigul"
+    },
+    {
+        "anak": "glatik",
+        "jenenge": "cecrekan"
+    },
+    {
+        "anak": "gundhik",
+        "jenenge": "laron/ rayap"
+    },
+    {
+        "anak": "iwak saga",
+        "jenenge": "beyong/ kocolan"
+    },
+    {
+        "anak": "jangkrik",
+        "jenenge": "gendholo"
+    },
+    {
+        "anak": "jaran",
+        "jenenge": "belo"
+    },
+    {
+        "anak": "kadhal",
+        "jenenge": "tobil"
+    },
+    {
+        "anak": "kakap",
+        "jenenge": "capalak"
+    },
+    {
+        "anak": "kalajengking",
+        "jenenge": "ketupa"
+    },
+    {
+        "anak": "kancil",
+        "jenenge": "kenthi"
+    },
+    {
+        "anak": "kebo",
+        "jenenge": "gudel"
+    },
+    {
+        "anak": "kecapung",
+        "jenenge": "jenthit"
+    },
+    {
+        "anak": "kemangga",
+        "jenenge": "ceriwi"
+    },
+    {
+        "anak": "kepik",
+        "jenenge": "mreki"
+    },
+    {
+        "anak": "kidang",
+        "jenenge": "kemprong"
+    },
+    {
+        "anak": "kimar",
+        "jenenge": "kedah"
+    },
+    {
+        "anak": "kenjeng",
+        "jenenge": "senggutru"
+    },
+    {
+        "anak": "kenjing dom",
+        "jenenge": "undur-undur"
+    },
+    {
+        "anak": "kintel",
+        "jenenge": "kenthus"
+    },
+    {
+        "anak": "kethek",
+        "jenenge": "munyuk / kenyung"
+    },
+    {
+        "anak": "kodok",
+        "jenenge": "precil"
+    },
+    {
+        "anak": "kombang",
+        "jenenge": "engkuk"
+    },
+    {
+        "anak": "konang",
+        "jenenge": "endrak"
+    },
+    {
+        "anak": "kremi",
+        "jenenge": "recak"
+    },
+    {
+        "anak": "kucing",
+        "jenenge": "cemeng"
+    },
+    {
+        "anak": "kul / kenyong",
+        "jenenge": "krikik"
+    },
+    {
+        "anak": "kupu",
+        "jenenge": "uler"
+    },
+    {
+        "anak": "kura",
+        "jenenge": "laos"
+    },
+    {
+        "anak": "kuthuk",
+        "jenenge": "kotesan"
+    },
+    {
+        "anak": "kwangwung",
+        "jenenge": "gendhot"
+    },
+    {
+        "anak": "laler",
+        "jenenge": "set/ singgat"
+    },
+    {
+        "anak": "lamuk",
+        "jenenge": "jenthik"
+    },
+    {
+        "anak": "lawa",
+        "jenenge": "kampret"
+    },
+    {
+        "anak": "lele",
+        "jenenge": "jabrisan"
+    },
+    {
+        "anak": "lemot",
+        "jenenge": "uget-uget"
+    },
+    {
+        "anak": "lintah",
+        "jenenge": "pacet"
+    },
+    {
+        "anak": "lingsang",
+        "jenenge": "beles"
+    },
+    {
+        "anak": "lodan",
+        "jenenge": "jengkelong"
+    },
+    {
+        "anak": "lutung",
+        "jenenge": "kenyung"
+    },
+    {
+        "anak": "luwak",
+        "jenenge": "kuwuk"
+    },
+    {
+        "anak": "luwing",
+        "jenenge": "gonggo"
+    },
+    {
+        "anak": "macan",
+        "jenenge": "gogor"
+    },
+    {
+        "anak": "manuk",
+        "jenenge": "piyik"
+    },
+    {
+        "anak": "menjangan",
+        "jenenge": "kompreng"
+    },
+    {
+        "anak": "menthok",
+        "jenenge": "minthi"
+    },
+    {
+        "anak": "merak",
+        "jenenge": "uncung"
+    },
+    {
+        "anak": "nyamblik",
+        "jenenge": "slira"
+    },
+    {
+        "anak": "pe",
+        "jenenge": "genyong"
+    },
+    {
+        "anak": "pleting",
+        "jenenge": "jaringan"
+    },
+    {
+        "anak": "sapi",
+        "jenenge": "pedhet"
+    },
+    {
+        "anak": "sembilang",
+        "jenenge": "lenger"
+    },
+    {
+        "anak": "singa",
+        "jenenge": "dibal"
+    },
+    {
+        "anak": "tambra",
+        "jenenge": "bokol"
+    },
+    {
+        "anak": "tawon",
+        "jenenge": "gana"
+    },
+    {
+        "anak": "tekek",
+        "jenenge": "celolo"
+    },
+    {
+        "anak": "tikus",
+        "jenenge": "cindhil"
+    },
+    {
+        "anak": "tongkol",
+        "jenenge": "cengkrik"
+    },
+    {
+        "anak": "tumo",
+        "jenenge": "kor"
+    },
+    {
+        "anak": "ula",
+        "jenenge": "kisi / ucet"
+    },
+    {
+        "anak": "urang",
+        "jenenge": "grago"
+    },
+    {
+        "anak": "wader",
+        "jenenge": "sriwat"
+    },
+    {
+        "anak": "wagal",
+        "jenenge": "jendhil"
+    },
+    {
+        "anak": "walang",
+        "jenenge": "dhogol"
+    },
+    {
+        "anak": "warak",
+        "jenenge": "plenging"
+    },
+    {
+        "anak": "wedus",
+        "jenenge": "cempe"
+    },
+    {
+        "anak": "welut",
+        "jenenge": "udhet"
+    },
+    {
+        "anak": "yuyu",
+        "jenenge": "beyes"
+    }
+]

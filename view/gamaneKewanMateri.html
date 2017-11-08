@@ -1,0 +1,37 @@
+<div layout="column" class="md-padding">
+    <section layout="row" flex style="padding-bottom:20px">
+            <md-autocomplete
+              md-selected-item="selectedItem"
+              md-search-text-change="searchTextChange(searchText)"
+              md-search-text="searchText"
+              md-selected-item-change="selectedItemChange(item)"
+              md-items="item in querySearch(searchText)"
+              md-item-text="item.gamane"
+              md-min-length="0"
+              placeholder="Cari disini"
+              md-menu-class="autocomplete-custom-template" flex>
+            <md-item-template>
+              <span class="item-title">
+                <span style="text-transform: capitalize;"> {{item.gamane}} - </span>
+              </span>
+              <span class="item-metadata">
+                <span class="item-metastat">
+                  <strong style="text-transform: capitalize;">{{item.arane}}</strong>
+                </span>
+              </span>
+            </md-item-template>
+          </md-autocomplete>
+        </section>
+    <table style="width: 100%;">
+        <tbody>
+            <thead>
+                <th style="text-align:left;">Gamane</th>
+                <th style="text-align:left;">Arane</th>
+            </thead>
+            <tr ng-repeat="kewan in gamane" style="margin:5px 0px">
+                <td style="padding-bottom: 8px;width:50%;text-transform: capitalize;">{{kewan.gamane}}</td>
+                <td style="text-transform: capitalize;width:50%;padding-bottom: 8px;padding-left: 5px;">{{kewan.arane}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

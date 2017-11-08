@@ -1,0 +1,53 @@
+<style>
+    table#menuGrid {
+        width: 100%;
+    }
+    #menuGrid td {
+        width: calc(100% / 4);
+        padding: 18px;
+        text-align: center;
+    }
+    #menuGrid td:hover {
+        box-shadow: rgba(0, 0, 0, 0.258824) 0px 2px 5px 0px;
+    }
+</style>
+<md-dialog aria-label="Mango (Fruit)">
+  <form ng-cloak>
+    <md-dialog-content>
+      <div class="md-dialog-content">
+        <table id="menuGrid">
+            <tr>
+                <td ng-click="scrollTo('A')">A</td>
+            	<td ng-click="scrollTo('B')">B</td>
+            	<td ng-click="scrollTo('C')">C</td>
+            	<td ng-click="scrollTo('D')">D</td>
+            </tr>
+            <tr>
+            	<td ng-click="scrollTo('E')">E</td>
+            	<td ng-click="scrollTo('G')">G</td>
+            	<td ng-click="scrollTo('I')">I</td>
+            	<td ng-click="scrollTo('J')">J</td>
+            </tr>
+            <tr>
+            	<td ng-click="scrollTo('K')">K</td>
+            	<td ng-click="scrollTo('L')">L</td>
+            	<td ng-click="scrollTo('M')">M</td>
+            	<td ng-click="scrollTo('N')">N</td>
+            </tr>
+            <tr>
+            	<td ng-click="scrollTo('O')">O</td>
+            	<td ng-click="scrollTo('P')">P</td>
+            	<td ng-click="scrollTo('R')">R</td>
+            	<td ng-click="scrollTo('S')">S</td>
+            </tr>
+            <tr>
+            	<td ng-click="scrollTo('T')">T</td>
+            	<td ng-click="scrollTo('U')">U</td>
+            	<td ng-click="scrollTo('W')">W</td>
+            	<td ng-click="scrollTo('Y')">Y</td>
+            </tr>
+        </table>
+      </div>
+    </md-dialog-content>
+  </form>
+</md-dialog>

@@ -1,0 +1,722 @@
+[
+ {
+   "field1": "andhap",
+   "field2": "inggil"
+ },
+ {
+   "field1": "andhap asor",
+   "field2": "deksura"
+ },
+ {
+   "field1": "adhem",
+   "field2": "panas"
+ },
+ {
+   "field1": "adil",
+   "field2": "sawenang-wenang"
+ },
+ {
+   "field1": "adoh",
+   "field2": "cedhak"
+ },
+ {
+   "field1": "ageng",
+   "field2": "alit"
+ },
+ {
+   "field1": "agung",
+   "field2": "asat"
+ },
+ {
+   "field1": "akas",
+   "field2": "lemes"
+ },
+ {
+   "field1": "akeh",
+   "field2": "sathithik"
+ },
+ {
+   "field1": "ala",
+   "field2": "becik"
+ },
+ {
+   "field1": "ambang",
+   "field2": "kelem"
+ },
+ {
+   "field1": "amber",
+   "field2": "asat"
+ },
+ {
+   "field1": "amem",
+   "field2": "grapyak"
+ },
+ {
+   "field1": "angok",
+   "field2": "rob"
+ },
+ {
+   "field1": "arang",
+   "field2": "kereb"
+ },
+ {
+   "field1": "asat",
+   "field2": "agung"
+ },
+ {
+   "field1": "asor",
+   "field2": "unggul"
+ },
+ {
+   "field1": "atos",
+   "field2": "empuk"
+ },
+ {
+   "field1": "bagus",
+   "field2": "elek"
+ },
+ {
+   "field1": "(m) bangir",
+   "field2": "pesek"
+ },
+ {
+   "field1": "banter",
+   "field2": "alon"
+ },
+ {
+   "field1": "bathi",
+   "field2": "tuna"
+ },
+ {
+   "field1": "becik",
+   "field2": "ala"
+ },
+ {
+   "field1": "begja",
+   "field2": "cilaka"
+ },
+ {
+   "field1": "bener",
+   "field2": "luput"
+ },
+ {
+   "field1": "bening",
+   "field2": "buthek"
+ },
+ {
+   "field1": "biyen",
+   "field2": "saiki"
+ },
+ {
+   "field1": "brangsang",
+   "field2": "sabar"
+ },
+ {
+   "field1": "budhal",
+   "field2": "bali"
+ },
+ {
+   "field1": "bungah",
+   "field2": "susah"
+ },
+ {
+   "field1": "cedhak",
+   "field2": "adoh"
+ },
+ {
+   "field1": "cendhak",
+   "field2": "dawa"
+ },
+ {
+   "field1": "cethek",
+   "field2": "jero"
+ },
+ {
+   "field1": "cethil",
+   "field2": "loma"
+ },
+ {
+   "field1": "climen",
+   "field2": "gedhen"
+ },
+ {
+   "field1": "crah",
+   "field2": "rukun"
+ },
+ {
+   "field1": "culika",
+   "field2": "jujur"
+ },
+ {
+   "field1": "cupet",
+   "field2": "dawa"
+ },
+ {
+   "field1": "cuwa",
+   "field2": "lega"
+ },
+ {
+   "field1": "cuwer",
+   "field2": "kenthel"
+ },
+ {
+   "field1": "dawa",
+   "field2": "cendhek"
+ },
+ {
+   "field1": "dhewe",
+   "field2": "bareng"
+ },
+ {
+   "field1": "dhiri",
+   "field2": "sumanak"
+ },
+ {
+   "field1": "(n) dhisiki",
+   "field2": "ngareni"
+ },
+ {
+   "field1": "dhoyong",
+   "field2": "jejeg"
+ },
+ {
+   "field1": "(n) dhudhuk",
+   "field2": "ngurug"
+ },
+ {
+   "field1": "dhuwur",
+   "field2": "cendhek"
+ },
+ {
+   "field1": "duka",
+   "field2": "rena"
+ },
+ {
+   "field1": "dursila",
+   "field2": "susila"
+ },
+ {
+   "field1": "edan",
+   "field2": "waras"
+ },
+ {
+   "field1": "edhum",
+   "field2": "panas"
+ },
+ {
+   "field1": "eling",
+   "field2": "lali"
+ },
+ {
+   "field1": "empuk",
+   "field2": "atos"
+ },
+ {
+   "field1": "entek",
+   "field2": "isih"
+ },
+ {
+   "field1": "esuk",
+   "field2": "sore"
+ },
+ {
+   "field1": "eyup",
+   "field2": "panas"
+ },
+ {
+   "field1": "gabuk",
+   "field2": "isi"
+ },
+ {
+   "field1": "galak",
+   "field2": "kuthuk"
+ },
+ {
+   "field1": "gedhen",
+   "field2": "climen"
+ },
+ {
+   "field1": "gemi",
+   "field2": "boros"
+ },
+ {
+   "field1": "gething",
+   "field2": "seneng"
+ },
+ {
+   "field1": "goroh",
+   "field2": "blaka"
+ },
+ {
+   "field1": "grapyak",
+   "field2": "anggak"
+ },
+ {
+   "field1": "gundhul",
+   "field2": "ketel"
+ },
+ {
+   "field1": "(n) jaluk",
+   "field2": "weweh"
+ },
+ {
+   "field1": "jembar",
+   "field2": "ciyut"
+ },
+ {
+   "field1": "(n) jembrung",
+   "field2": "gilar-gilar"
+ },
+ {
+   "field1": "jero",
+   "field2": "cethek"
+ },
+ {
+   "field1": "jirih",
+   "field2": "kendel"
+ },
+ {
+   "field1": "jujur",
+   "field2": "culika"
+ },
+ {
+   "field1": "kahyangan",
+   "field2": "donya"
+ },
+ {
+   "field1": "kalis",
+   "field2": "ketaman"
+ },
+ {
+   "field1": "kapenak",
+   "field2": "rekasa"
+ },
+ {
+   "field1": "kasar",
+   "field2": "alus"
+ },
+ {
+   "field1": "kasoran",
+   "field2": "menang"
+ },
+ {
+   "field1": "katiga",
+   "field2": "rendheng"
+ },
+ {
+   "field1": "kemlukung",
+   "field2": "andhap asor"
+ },
+ {
+   "field1": "kendel",
+   "field2": "jirih"
+ },
+ {
+   "field1": "kerep",
+   "field2": "kala-kala"
+ },
+ {
+   "field1": "kesusu",
+   "field2": "sareh"
+ },
+ {
+   "field1": "klular-klulur",
+   "field2": "trengginas"
+ },
+ {
+   "field1": "kurang",
+   "field2": "luwih"
+ },
+ {
+   "field1": "landhep",
+   "field2": "kethul"
+ },
+ {
+   "field1": "lantip",
+   "field2": "bodho"
+ },
+ {
+   "field1": "larang",
+   "field2": "murah"
+ },
+ {
+   "field1": "lembut",
+   "field2": "agal"
+ },
+ {
+   "field1": "(di) lepeh",
+   "field2": "di eleg"
+ },
+ {
+   "field1": "lirih",
+   "field2": "seru"
+ },
+ {
+   "field1": "loh",
+   "field2": "cengkar"
+ },
+ {
+   "field1": "longgar",
+   "field2": "sesak"
+ },
+ {
+   "field1": "lemu",
+   "field2": "kuru"
+ },
+ {
+   "field1": "lencir",
+   "field2": "cendhek"
+ },
+ {
+   "field1": "luhur",
+   "field2": "asor"
+ },
+ {
+   "field1": "lumrah",
+   "field2": "aneh"
+ },
+ {
+   "field1": "mabur",
+   "field2": "mencok"
+ },
+ {
+   "field1": "manca",
+   "field2": "njero"
+ },
+ {
+   "field1": "manjer",
+   "field2": "ngglewang"
+ },
+ {
+   "field1": "manthuk",
+   "field2": "gedheg"
+ },
+ {
+   "field1": "manteb",
+   "field2": "mangiro"
+ },
+ {
+   "field1": "mapag",
+   "field2": "ngeterake"
+ },
+ {
+   "field1": "mardika",
+   "field2": "dijajah"
+ },
+ {
+   "field1": "marem",
+   "field2": "gela"
+ },
+ {
+   "field1": "mempeng",
+   "field2": "kesed"
+ },
+ {
+   "field1": "mendhung",
+   "field2": "resik"
+ },
+ {
+   "field1": "mentah",
+   "field2": "mateng"
+ },
+ {
+   "field1": "mopo",
+   "field2": "tumandang"
+ },
+ {
+   "field1": "muktiwibawa",
+   "field2": "sangsara"
+ },
+ {
+   "field1": "mulih",
+   "field2": "mangkat"
+ },
+ {
+   "field1": "mulya",
+   "field2": "sangsara"
+ },
+ {
+   "field1": "mursid",
+   "field2": "mursal"
+ },
+ {
+   "field1": "nacad",
+   "field2": "ngelem"
+ },
+ {
+   "field1": "nistha",
+   "field2": "utama"
+ },
+ {
+   "field1": "nugel",
+   "field2": "nurut"
+ },
+ {
+   "field1": "ngajeni",
+   "field2": "ngina"
+ },
+ {
+   "field1": "nglakoni",
+   "field2": "nyelaki"
+ },
+ {
+   "field1": "ngati-ati",
+   "field2": "sembrana"
+ },
+ {
+   "field1": "ngebreh",
+   "field2": "gemi"
+ },
+ {
+   "field1": "ngenaki",
+   "field2": "nglarangi"
+ },
+ {
+   "field1": "nggeret",
+   "field2": "nyurung"
+ },
+ {
+   "field1": "ngleneng",
+   "field2": "banter"
+ },
+ {
+   "field1": "nyedhak",
+   "field2": "ngedoh"
+ },
+ {
+   "field1": "nyusahake",
+   "field2": "mbungahake"
+ },
+ {
+   "field1": "padhang",
+   "field2": "peteng"
+ },
+ {
+   "field1": "padu",
+   "field2": "rukuh"
+ },
+ {
+   "field1": "pinggir",
+   "field2": "tengah"
+ },
+ {
+   "field1": "prasaja",
+   "field2": "mubra-mubra"
+ },
+ {
+   "field1": "prigel",
+   "field2": "kidhung"
+ },
+ {
+   "field1": "pungkasan",
+   "field2": "wiwitan"
+ },
+ {
+   "field1": "rame",
+   "field2": "sepi"
+ },
+ {
+   "field1": "rampung",
+   "field2": "wiwit"
+ },
+ {
+   "field1": "rawuh",
+   "field2": "tindak"
+ },
+ {
+   "field1": "resikan",
+   "field2": "kemproh"
+ },
+ {
+   "field1": "(ng) rewangi",
+   "field2": "ngrusuhi"
+ },
+ {
+   "field1": "rikat",
+   "field2": "rindhik"
+ },
+ {
+   "field1": "rekasa",
+   "field2": "kapenak"
+ },
+ {
+   "field1": "rendheng",
+   "field2": "katiga"
+ },
+ {
+   "field1": "resik",
+   "field2": "reged"
+ },
+ {
+   "field1": "ringkes",
+   "field2": "rowa"
+ },
+ {
+   "field1": "(di) ringkesi",
+   "field2": "diorat-arit"
+ },
+ {
+   "field1": "rowa",
+   "field2": "cekak aos"
+ },
+ {
+   "field1": "sabar",
+   "field2": "nesu"
+ },
+ {
+   "field1": "sabar",
+   "field2": "brangasan"
+ },
+ {
+   "field1": "saen",
+   "field2": "isinan"
+ },
+ {
+   "field1": "sareh",
+   "field2": "grusa-grusu"
+ },
+ {
+   "field1": "sedhep",
+   "field2": "cemplang"
+ },
+ {
+   "field1": "semanak",
+   "field2": "anggak"
+ },
+ {
+   "field1": "sengkud",
+   "field2": "kendho"
+ },
+ {
+   "field1": "sengsara",
+   "field2": "kapenak"
+ },
+ {
+   "field1": "sepele",
+   "field2": "wigati"
+ },
+ {
+   "field1": "seru",
+   "field2": "alon, lirih"
+ },
+ {
+   "field1": "sregep",
+   "field2": "kesed"
+ },
+ {
+   "field1": "subur",
+   "field2": "cengkar"
+ },
+ {
+   "field1": "sugeng",
+   "field2": "seda"
+ },
+ {
+   "field1": "sumelang",
+   "field2": "mantep"
+ },
+ {
+   "field1": "sumringah",
+   "field2": "pucet"
+ },
+ {
+   "field1": "susah",
+   "field2": "seneng"
+ },
+ {
+   "field1": "tanpa",
+   "field2": "nganggo"
+ },
+ {
+   "field1": "teka",
+   "field2": "lunga"
+ },
+ {
+   "field1": "temen",
+   "field2": "cidra"
+ },
+ {
+   "field1": "tenan",
+   "field2": "ethok-ethok"
+ },
+ {
+   "field1": "tikungan",
+   "field2": "lempeng"
+ },
+ {
+   "field1": "tindak",
+   "field2": "kondur"
+ },
+ {
+   "field1": "tipis",
+   "field2": "kandel"
+ },
+ {
+   "field1": "titen",
+   "field2": "lalen"
+ },
+ {
+   "field1": "trantanan",
+   "field2": "rikat"
+ },
+ {
+   "field1": "tresna",
+   "field2": "sengit"
+ },
+ {
+   "field1": "tuntun",
+   "field2": "pethal"
+ },
+ {
+   "field1": "turu",
+   "field2": "tangi"
+ },
+ {
+   "field1": "(di) ugung",
+   "field2": "dipethes"
+ },
+ {
+   "field1": "(di) ukum",
+   "field2": "diganjar"
+ },
+ {
+   "field1": "waras",
+   "field2": "lara"
+ },
+ {
+   "field1": "wareg",
+   "field2": "luwe"
+ },
+ {
+   "field1": "wedi",
+   "field2": "wani"
+ },
+ {
+   "field1": "wekel",
+   "field2": "kesed"
+ },
+ {
+   "field1": "welasan",
+   "field2": "siya"
+ },
+ {
+   "field1": "wiwitan",
+   "field2": "pungkasan"
+ },
+ {
+   "field1": "wuled",
+   "field2": "mbedhel"
+ },
+ {
+   "field1": "wuragil",
+   "field2": "pambarep"
+ },
+ {
+   "field1": "wurung",
+   "field2": "kelakon"
+ },
+ {
+   "field1": "wutuh",
+   "field2": "kalong"
+ }
+]

@@ -1,0 +1,232 @@
+<div layout="column" style="height: 100vh;" >
+    <md-toolbar class="md-hue-2" md-whiteframe="5">
+    <div class="md-toolbar-tools" style="overflow:hidden;">
+        
+        <h2>
+          <span><ng-md-icon icon="local_library" style="fill:#fff;"></ng-md-icon> PepakQ Lite</span>
+        </h2>
+        <span flex></span>
+        
+        <md-menu hide-gt-md md-position-mode="target-right target">
+          <md-button class="md-icon-button" aria-label="More" ng-click="openMenu($mdOpenMenu, $event)">
+            <ng-md-icon icon="more_vert"></ng-md-icon>
+          </md-button>
+          <md-menu-content width="4">
+            <md-menu-item ng-repeat="menu in menuUrls">
+              <md-button ng-href="{{::menu.url}}">{{::menu.value}}</md-button>
+            </md-menu-item>
+            
+          </md-menu-content>
+        </md-menu>
+    </div>
+    
+    </md-toolbar>
+    <section layout="row" flex class="ny-content">
+        <md-content flex>
+            <div layout="column">
+                <section id="welcome">
+                    <h2 class="md-healine">PepakQ <small>Lite</small> </h2>
+                    <span>Pepak Digital di Smartphone mu</span>
+                </section>
+                <md-card style="background-color:#F44336;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #f65a4e;">
+                            <div class="cr2" style="background: #f44336;">
+                                <ng-md-icon icon="pets"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Arane Anak Kewan</span>
+                        <span style="font-size:13px;">Mengenal nama-nama anak hewan dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/anak_kewan" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                <md-card style="background-color:#2196F3;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #5ab5fe;">
+                            <div class="cr2" style="background: #2196F3;">
+                                <ng-md-icon icon="fitness_center"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Arane Gamane Kewan</span>
+                        <span style="font-size:13px;">Mengenal senjata untuk bertahan diri yang dimiliki Hewan</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/gamane_kewan" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                <md-card style="background-color:#673AB7;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #7344c7;">
+                            <div class="cr2" style="background: #673AB7;">
+                                <ng-md-icon icon="hearing"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Arane Swarane Kewan</span>
+                        <span style="font-size:13px;">Mengenal suara-suara Hewan dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/swarane_kewan" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                <md-card style="background-color:#9C27B0;;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #a834bc;">
+                            <div class="cr2" style="background: #9C27B0;">
+                                <ng-md-icon icon="pets"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Arane Tingkahe Kewan</span>
+                        <span style="font-size:13px;">Mengenal Tingakah Laku hewan dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/tingkahe_kewan" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                <md-card style="background-color:#E91E63;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #EC407A;">
+                            <div class="cr2" style="background: #E91E63;">
+                                <ng-md-icon icon="local_dining"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Arane Mangane Kewan</span>
+                        <span style="font-size:13px;">Mengenal Cara Makan hewan dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/mangane_kewan" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                
+                <md-card style="background-color:#FF5722;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #FF7043;">
+                            <div class="cr2" style="background: #FF5722;">
+                                <ng-md-icon icon="remove_red_eye"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Arane Rupane Kewan</span>
+                        <span style="font-size:13px;">Mengenal Ciri ciri hewan dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/rupane_kewan" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                
+                <md-card style="background-color: #FFC107;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #ffd24a;">
+                            <div class="cr2" style="background: #FFC107;">
+                                <ng-md-icon icon="compare_arrows"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Tembung Kosok Balen</span>
+                        <span style="font-size:13px;">Mengenal Lawan Kata dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/kosok_balen" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                
+                <md-card style="background-color: #3b5998;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #4967a7;">
+                            <div class="cr2" style="background: #3b5998;">
+                                <ng-md-icon icon="text_format"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Tembung Saroja</span>
+                        <span style="font-size:13px;">Mengenal Tembung Saroja dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/saroja" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                
+                <md-card style="background-color: #2196F3;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background-color: #5ab5fe;">
+                            <div class="cr2" style="background-color: #2196F3;">
+                                <ng-md-icon icon="text_format"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Tembung Entar</span>
+                        <span style="font-size:13px;">Mengenal Tembung Entar dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/entar" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                
+                <md-card style="background-color: #607D8B;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #90A4AE;">
+                            <div class="cr2" style="background: #607D8B;">
+                                <ng-md-icon icon="record_voice_over"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Paribasan</span>
+                        <span style="font-size:13px;">Mengenal Pribahasa dalam Bahasa Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/paribasan" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                
+                <md-card style="background-color:#009688;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #0ca092;">
+                            <div class="cr2" style="background: #009688;">
+                                <ng-md-icon icon="text_format"></ng-md-icon></div></div>
+                        
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Aksara Jawa</span>
+                        <span style="font-size:13px;">Mengenal Penulisan Aksara Jawa</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/aksara" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+                
+                <md-card style="background-color:#F44336;color:#fff;">
+                    <md-card-header layout-align="center center">
+                        <div class="cr1" style="background: #f65a4e;">
+                            <div class="cr2" style="background: #F44336;">
+                                <ng-md-icon icon="face"></ng-md-icon></div></div>
+                    </md-card-header>
+                    <md-card-content layout="column">
+                        <span style="font-size:20px;">Jeneng Kesatrya</span>
+                        <span style="font-size:13px;">Mengenal Nama Kesatrya dan Kerajaaanya</span>
+                    </md-card-content>
+                    <md-card-action layout="row">
+                        <span flex></span>
+                        <md-button ng-href="#materi/kerajaaan_satrya" class="md-raised">BACA</md-button>
+                    </md-card-action>
+                </md-card>
+            </div>
+        </md-content>
+    </section>    
+</div>

@@ -1,0 +1,40 @@
+<div layout="column" style="height: 100vh;" >
+    <div class="pp-fab" ng-show="isParibasan">
+        <md-button class="md-fab" aria-label="Eat cake" ng-click="menuGrid($event)">
+            <ng-md-icon icon="apps" style="fill:#f7f7f7"></ng-md-icon>
+        </md-button>
+    </div>
+    <md-toolbar class="md-hue-2" md-whiteframe="5" layout="column">
+    <div class="md-toolbar-tools" style="overflow:hidden;">
+        <md-button class="md-icon-button button-menu" aria-label="Menu" ng-click="toggleLeft()" hide-gt-md>
+            <ng-md-icon icon="menu"></ng-md-icon>
+        </md-button>
+        <h2>
+          <span>{{::materiTitle}}</span>
+        </h2>
+        <span flex></span>
+    </div>
+    
+    </md-toolbar>
+    
+    <section layout="column" flex class="ny-content">
+        <md-sidenav class="md-sidenav-left" md-component-id="left" md-is-locked-open="$mdMedia('gt-md')" md-whiteframe="4">
+           <md-content>
+            <header class="nav-header" hide-gt-md layout-padding layout="column">
+                <div class="cr1" style="background: #fefefe;max-width: 44px;">
+                            <div class="cr2" style="background: #E91E63;max-width: 24px;">
+                                <ng-md-icon icon="local_library" style="fill:#fff;"></ng-md-icon></div></div>
+    	    	<span class="md-subhead">PepakQ Lite</span>
+    	    </header>
+    	    <div>
+    		    <div ng-include="'view/sidebarLayout.html'"></div>
+    		</div>
+          </md-content>
+        </md-sidenav>
+        <md-content flex>
+         
+        	<div ng-include="materiurl"></div>
+           
+        </md-content>
+    </section>    
+</div>
